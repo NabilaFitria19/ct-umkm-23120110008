@@ -32,7 +32,7 @@ Salin dari bank studi kasus, lalu tulis ulang masalahnya dengan kalimatmu sendir
 
 Pilih satu jalur: **minimal 3 narasumber** atau **minimal 20 data transaksi**. Detail dan contoh ada di [`docs/01-data-lapangan.md`](docs/01-data-lapangan.md).
 
-Jalur yang saya pilih: `<isi: narasumber / transaksi>`
+Jalur yang saya pilih: `isi: narasumber`
 
 | Kode | Siapa (peran, tanpa nama) | Hubungan dengan kasus | Rencana (cara, minggu) | Realisasi |
 |---|---|---|---|---|
