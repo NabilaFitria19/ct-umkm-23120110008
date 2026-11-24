@@ -36,9 +36,9 @@ Jalur yang saya pilih: `<isi: narasumber / transaksi>`
 
 | Kode | Siapa (peran, tanpa nama) | Hubungan dengan kasus | Rencana (cara, minggu) | Realisasi |
 |---|---|---|---|---|
-| N1 | `<isi: misalnya pemilik usaha laundry dekat kampus>` | `<isi: UMKM sejenis kasus saya>` | `<isi: tatap muka, PTS−4>` | `<isi: belum / selesai, lihat docs/01>` |
-| N2 | `<isi: peran>` | `<isi: hubungan>` | `<isi: rencana>` | `<isi: realisasi>` |
-| N3 | `<isi: peran>` | `<isi: hubungan>` | `<isi: rencana>` | `<isi: realisasi>` |
+| N1 | `Pemilik depot air isi ulang` | `Depot air isi ulang dengan layanan antar` | `Wawancara tatap muka, PTS−4` | `belum` |
+| N2 | `Kurir atau pegawai yang mengantar galon ke pelanggan` | `Pelaku langsung yang menjalani rute antar setiap hari` | `Wawancara tatap muka dan ikut mengamati satu sesi antar, PTS−4` | `belum` |
+| N3 | `Pelanggan langganan yang rutin dikirimi galon` | `Pengguna layanan yang merasakan jadwal dan keterlambatan antar` | `Wawancara singkat via chat atau tatap muka, PTS−3` | `belum` |
 
 Kalau memilih jalur transaksi, isi satu baris saja: kode `T`, sumber catatan (misalnya buku nota pemilik), rencana pengambilan, realisasi.
 
