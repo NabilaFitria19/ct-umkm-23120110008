@@ -1,4 +1,4 @@
-# `<isi: nama UMKM>`: `<isi: judul singkat solusi, misalnya "Tiket Servis Digital">`
+# `Az-Zam Water`: `Pesanan Galon Digital`
 
 > [!IMPORTANT]
 > **Isi saat kickoff, lalu jadikan commit pertama kamu.** Bagian yang wajib terisi di commit pertama: **1. Identitas**, **2. Kasus**, dan **3. Data lapangan** (kolom "Rencana" saja). Hapus setiap teks `<isi: ...>` seutuhnya (termasuk tanda `< >`), lalu tulis isianmu sendiri di tempatnya. Bagian lain diisi bertahap sesuai minggu di **Timeline**.
@@ -11,9 +11,9 @@ Repo ini harus **Public** dengan nama `ct-umkm-<NIM>`, supaya dosen bisa membuka
 
 | | |
 |---|---|
-| NIM | `<isi: NIM>` |
-| Nama panggilan (opsional) | `<isi: boleh dikosongkan>` |
-| Repo | `https://github.com/<isi: username>/ct-umkm-<isi: NIM>` |
+| NIM | `23120110008` |
+| Nama panggilan (opsional) | `Nabila` |
+| Repo | `https://github.com/NabilaFitria19/ct-umkm-23120110008` |
 
 ## 2. Kasus
 
@@ -21,12 +21,12 @@ Salin dari bank studi kasus, lalu tulis ulang masalahnya dengan kalimatmu sendir
 
 | | |
 |---|---|
-| Nomor kasus | `<isi: nomor>` |
-| Jenis UMKM | `<isi: jenis UMKM dari bank kasus>` |
-| Kelompok kasus | `<isi: misalnya Antrean & status order>` |
-| Masalah utama (bank kasus) | `<isi: salin persis>` |
-| Masalah utama (kalimatku) | `<isi: satu kalimat yang menyebut siapa yang rugi dan kapan masalah itu terjadi>` |
-| Tantangan Bonus | `<isi: salin dari bank kasus>` |
+| Nomor kasus | `23` |
+| Jenis UMKM | `Depot air isi ulang` |
+| Kelompok kasus | `Booking & jadwal` |
+| Masalah utama (bank kasus) | `Antar galon ke pelanggan langganan tidak efisien` |
+| Masalah utama (kalimatku) | `Pemilik depot dan kurirnya rugi waktu serta bensin setiap kali antar galon, karena pelanggan langganan didatangi tanpa urutan rute yang jelas sehingga kurir bolak-balik ke area yang sama.` |
+| Tantangan Bonus | `Urutkan rute antar (algoritma nearest neighbor sederhana)` |
 
 ## 3. Data lapangan: rencana dan realisasi
 
