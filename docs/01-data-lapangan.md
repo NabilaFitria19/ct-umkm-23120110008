@@ -139,11 +139,12 @@ Semua yang ada di bawah judul ini adalah isianmu, dan hanya bagian ini yang dipe
 
 ### 5.1 Jalur yang dipilih
 
-`<isi: A (narasumber) atau B (transaksi)>`
+`A (narasumber)`
 
 ### 5.2 Sumber dan izin
 
-`<isi: dari mana data didapat, kapan secara relatif (misalnya PTS−4), bagaimana caranya, izin yang diberikan>`
+`data didapat dari satu depot air isi ulang di area Jakarta Timur, wawancara dilakukan pada minggu PTS, saya melakukan wawancarra kepada tiga narasumber berbeda, ketiga narasumber setuju jawabannya dipakai untuk tugas kuliah dan dicatat
+tanpa nama dan tanpa nomor konta`
 
 ### 5.3A Narasumber (hapus bagian ini kalau memakai Jalur B)
 
@@ -151,58 +152,58 @@ Semua yang ada di bawah judul ini adalah isianmu, dan hanya bagian ini yang dipe
 
 | | |
 |---|---|
-| Peran | `<isi: misalnya pemilik, karyawan, pelanggan tetap>` |
-| Hubungan dengan kasus | `<isi: jenis usahanya dan kenapa relevan dengan kasusmu>` |
-| Cara dan lama | `<isi: tatap muka / telepon / chat, berapa menit>` |
-| Izin | `<isi: ya (lisan) / ya (tertulis di chat)>` |
+| Peran | `Pemilik depot air isi ulang` |
+| Hubungan dengan kasus | `Pemilik usaha depot air isi ulang yang melayani antar galon ke pelanggan langganan dan warung, sehingga mengalami langsung pencatatan pesanan lewat chat, antrean antar, dan batas muatan motor` |
+| Cara dan lama | `Tatap muka, 20 menit>` |
+| Izin | `ya (lisan)` |
 
 | No | Pertanyaan | Jawaban ringkas |
 |---|---|---|
-| 1 | `<isi>` | `<isi>` |
-| 2 | `<isi>` | `<isi>` |
-| 3 | `<isi>` | `<isi>` |
-| 4 | `<isi>` | `<isi>` |
-| 5 | `<isi>` | `<isi>` |
+| 1 | `Ceritakan sistem antar galon terakhir yang memakan waktu.` | `Antar ke warung paling boros waktu karena memakai motor yang hanya muat sekitar 6 galon, sedangkan pesanan warung biasanya sekitar 15 galon.` |
+| 2 | `Bagaimana sistem transaksi pelanggan langganan dicatat sekarang?` | `Transaksi dicatat manual di buku. Pelanggan langganan memesan lewat WhatsApp pemilik, lalu pemilik meneruskannya ke karyawan untuk diantar.` |
+| 3 | `Kapan terakhir ada pesanan terlewat atau tertukar, dan apa yang terjadi?` | `Pesanan terlewat terakhir terjadi hari ini karena pemilik lupa meneruskannya ke karyawan, dan pelanggan menghubungi pemilik lagi untuk konfirmasi. Kalau pesanan tertukar, karyawan menanyakan jumlah pesanan ke pemilik lebih dulu.` |
+| 4 | `Berapa pelanggan diantar pada hari tersibuk minggu ini?` | `Sekitar 25 transaksi per hari` |
+| 5 | `Siapa yang menentukan urutan antar, dan bagaimana caranya?` | `Urutan antar mengikuti siapa yang memesan lebih dulu, dengan sistem pesan langsung antar.` |
 
-Kutipan langsung: "`<isi>`"
+Kutipan langsung: "`Biasanya urutan antar pesanan adalah siapa yang duluan memesan. jadi sistem pengantarannya adalah pesan langsung antar`"
 
 #### N2
 
 | | |
 |---|---|
-| Peran | `<isi>` |
-| Hubungan dengan kasus | `<isi>` |
-| Cara dan lama | `<isi>` |
-| Izin | `<isi>` |
+| Peran | `Karyawan pengantar galon depot` |
+| Hubungan dengan kasus | `Pelaksana langsung pengantaran galon dengan motor, sehingga menjalani sendiri trip bolak-balik, urutan antar, dan pesanan yang terlewat` |
+| Cara dan lama | `Tatap muka, 30 menit` |
+| Izin | `ya (lisan)` |
 
 | No | Pertanyaan | Jawaban ringkas |
 |---|---|---|
-| 1 | `<isi>` | `<isi>` |
-| 2 | `<isi>` | `<isi>` |
-| 3 | `<isi>` | `<isi>` |
-| 4 | `<isi>` | `<isi>` |
-| 5 | `<isi>` | `<isi>` |
+| 1 | `Ceritakan rute antar kemarin dari awal sampai selesai.` | `Kemarin pagi pesanan pertama dari rumah, 2 galon, langsung diantar karena urutannya siapa yang memesan lebih dulu. Lalu ada pesanan warung 15 galon, yang harus diantar bolak-balik karena motor hanya muat 6 galon. Siangnya mengantar ke beberapa rumah langganan di blok berbeda, dan sore menutup pesanan terakhir di komplek sebelah sebelum depot tutup.` |
+| 2 | `Pernah bolak-balik ke area yang sama? Kapan dan kenapa?` | `Sering terjadi. Kemarin pesanan warung 15 galon diantar 3 kali bolak-balik ke warung yang sama (6, 6, dan 3 galon). Pernah juga baru kembali dari Blok A lalu ada pesanan dari rumah sebelahnya, sehingga harus berangkat lagi ke area yang sama karena pesanan tidak dikumpulkan dulu.` |
+| 3 | `Apa yang Anda lakukan kalau ada pesanan mendadak di tengah jalan?` | `Kalau ada pesan baru dari pemilik saat di jalan, ia mengecek sisa muatan dan arahnya. Kalau searah dan masih muat (misalnya bawa 4 galon, pesanan baru 2 galon), ia kembali ke depot untuk mengambil galonnya sekalian. Kalau beda arah, ia menyelesaikan antaran yang dibawa dulu, lalu kembali mengambil pesanan baru.` |
+| 4 | `Berapa lama satu putaran antar, dan bagian mana yang paling lama?` | `Antar ke rumah dekat dengan 2 sampai 4 galon memakan sekitar 15 sampai 20 menit satu putaran. Pesanan besar warung bisa hampir 1 jam karena 2 sampai 3 kali bolak-balik. Waktu juga habis saat menurunkan galon, menunggu penghuni keluar, dan mencari kembalian kalau pelanggan membayar dengan uang besar.` |
+| 5 | `Kejadian terakhir pelanggan menelepon menanyakan galonnya?` | `Baru terjadi hari ini: pelanggan langganan komplain karena galon yang dipesan sejak pagi belum diantar. Ternyata chat pesanannya tertumpuk dan lupa diteruskan oleh pemilik. Setelah diberi tahu, pesanan itu langsung diprioritaskan dan karyawan meminta maaf ke pelanggan.` |
 
-Kutipan langsung: "`<isi>`"
+Kutipan langsung: "`Karena gk dikumpulin dulu dan sistemnya pesan langsung antar, ya kalau ada pesanan lagi saya harus jalan lagi ke area yang sama`"
 
 #### N3
 
 | | |
 |---|---|
-| Peran | `<isi>` |
-| Hubungan dengan kasus | `<isi>` |
-| Cara dan lama | `<isi>` |
-| Izin | `<isi>` |
+| Peran | `Pelanggan langganan depot (pemesan lewat WhatsApp)` |
+| Hubungan dengan kasus | `Pengguna layanan antar galon yang merasakan keterlambatan dan ketidakpastian jam tiba` |
+| Cara dan lama | `Chat, 20 menit` |
+| Izin | `ya (tertulis di chat)` |
 
 | No | Pertanyaan | Jawaban ringkas |
 |---|---|---|
-| 1 | `<isi>` | `<isi>` |
-| 2 | `<isi>` | `<isi>` |
-| 3 | `<isi>` | `<isi>` |
-| 4 | `<isi>` | `<isi>` |
-| 5 | `<isi>` | `<isi>` |
+| 1 | `Kapan terakhir galon Anda terlambat diantar, dan berapa lama?` | `Terakhir terjadi hari ini. Pelanggan memesan lewat chat sejak pagi, tetapi galon baru tiba lewat jam makan siang, terlambat sekitar 2 sampai 3 jam dari estimasi biasa. Ternyata chat-nya tidak diteruskan pemilik ke bagian antar karena pemilik sedang pergi.` |
+| 2 | `Bagaimana Anda memesan galon?` | `Memesan lewat WhatsApp langsung ke nomor pemilik, misalnya dengan chat "kirim galon 1 ke alamat biasa". Tidak ada aplikasi atau formulir khusus, dan pesan dikirim saat galon di rumah mulai menipis atau habis.` |
+| 3 | `Pernah kehabisan air karena antar terlambat?` | `Pernah beberapa kali kehabisan air, terutama saat lupa memesan dari awal dan mengira galon akan cepat tiba. Kalau galon sudah kosong sebelum antaran datang, ia memasak air keran atau menumpang memakai air cadangan sementara.` |
+| 4 | `Bagaimana Anda tahu galon akan datang jam berapa?` | `Tidak ada jam antar yang pasti, karena sistemnya pesan langsung antar dan bergantung pada antrean serta posisi pengantar. Dari kebiasaan, kalau pesan pagi saat tidak ramai, galon tiba dalam 30 sampai 45 menit. Untuk tahu posisinya, harus chat lagi menanyakan.` |
+| 5 | `Hal terakhir yang membuat Anda kesal soal pengantaran?` | `Kejadiannya sama dengan nomor 1: sudah memesan sejak pagi tetapi pesanan tidak diteruskan, sehingga menunggu lama tanpa kepastian. Kadang galon juga tiba saat tidak ada orang di rumah atau saat sedang terburu-buru, karena jam tiba tidak bisa diprediksi.` |
 
-Kutipan langsung: "`<isi>`"
+Kutipan langsung: "`Gk ada aplikasi atau form khusus, pokoknya chat manual aja kalau galon di rumah sudah mulai menipis atau habi`"
 
 ### 5.3B Transaksi (hapus bagian ini kalau memakai Jalur A)
 
